@@ -21,7 +21,7 @@ O programa realiza os cálculos utilizando duas fórmulas principais:
    $$\text{Consumo (kWh)} = \frac{\text{Potência (W)} \times \text{Horas por dia} \times 30 \text{ dias}}{1000}$$
 
 2. **Custo Mensal Estimado (R$):**
-   $$\text{Custo (R$)} = \text{Consumo (kWh)} \times \text{Valor da Tarifa (R\$/kWh)}$$
+    $$\text{Custo (R)} = \text{Consumo (kWh)} \times \text{Valor da Tarifa (R\$/kWh)}$$
 
 > *Nota: O sistema utiliza como padrão uma tarifa fixa de **R$ 0,90 por kWh**.*
 
